@@ -1,0 +1,33 @@
+= deskshot CHANGELOG
+
+== v1.0.2 [24-Feb-2014] :
+
+* add default filename
+
+== v1.0.1 [12-Feb-2014] :
+
+* Minor bug fix
+
+== v1.0.0 [12-Feb-2014] :
+
+* Hide menu when click on 'Take Screenshot'
+* Save as Dialog for new screenshot
+* Suppress warning
+* Matured Product
+* Update README
+
+== v0.0.2 [10-Feb-2014] :
+
+* Fix icon issue
+* Fix rdoc issue
+* Change shortcut to 'CTRL + ALT + Q' to remove conflict in Linux
+
+== v0.0.1 [10-Feb-2014] :
+
+* Fix icon issue. Refactor code for ease.
+* Include RDoc,History,Manifest
+  
+== v0.0.0 [7-Feb-2014] :
+
+* Born Deskshot. Happy Birthday Dear Deskshot!
+* Ignore console warning. Many more updates are coming soon :)

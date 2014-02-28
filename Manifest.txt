@@ -1,0 +1,9 @@
+CHANGELOG.rdoc
+LICENCE
+Manifest.txt
+README.rdoc
+lib/deskshot.rb
+lib/deskshot/deskshot_icon.png
+lib/deskshot/screenshot.rb
+lib/deskshot/tray.rb
+lib/deskshot/tray_app.rb
